@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/abdelrahman-ahmed-576878231/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,jquery,react-recoil)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,jquery,react,recoil,git,github)](https://skillicons.dev)
 
 
 
