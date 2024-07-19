@@ -11,7 +11,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&pause=1000&color=F71A8B&center=true&vCenter=true&width=435&lines=Front-end+developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Frontend developer and a Frontend teaching assistant @ ITSharks.
+- 🏢 I'm a Frontend developer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, and ReactJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
