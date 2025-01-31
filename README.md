@@ -31,7 +31,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,jquery,react,redux,git,github,nextjs,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,typescript,jquery,react,redux,git,github,nextjs,firebase,supabase)](https://skillicons.dev)
 ![Recoil](https://img.shields.io/badge/-Recoil-05122A?style=flat&logo=Recoil)&nbsp;
 
 
