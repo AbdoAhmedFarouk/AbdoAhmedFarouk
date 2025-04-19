@@ -11,6 +11,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?      font=Fira+Code&pause=1000&color=F71A8B&center=true&vCenter=true&width=435&lines=Front-end+NextJs+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+NextJs+Developer;Always+learning+new+things)](https://git.io/typing-svg)
+
 - 🏢 I'm a Frontend NextJs Developer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NextJs, or anything related to web development.
