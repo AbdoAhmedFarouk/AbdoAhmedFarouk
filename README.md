@@ -12,9 +12,9 @@
 
 - 🏢 I'm a Frontend NextJs Developer.
 - 👨‍💻 As CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
+- 🚀 Currently expanding my expertise in Node.js, Express.js, and MongoDB to become a Full-Stack MERN Developer.
 - 💬 Ask me about my experience with JavaScript, Typescript, ReactJS, NextJs, GSAP, and Three.js, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-
 
 ### Connect with Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-ahmed-576878231/)
