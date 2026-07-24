@@ -1,5 +1,6 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" alt="Coding Animation">
+</p>
 
 <h3 align="center">
   Welcome to Abdelrahman Ahmed's profile!
